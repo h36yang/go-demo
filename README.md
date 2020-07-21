@@ -32,3 +32,7 @@ module "demo/webservice"
         "user.go":  User Controller
     "main.go": Program entry point that starts up the web server
 ```
+
+### Best Practices
+> https://golang.org/doc/effective_go.html
+> https://github.com/golang/go/wiki/CodeReviewComments
