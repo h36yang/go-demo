@@ -15,3 +15,10 @@ Practice materials for Go
 * Task Automation
 * GUI / Thick Client
 * Machine Learning
+
+### Sample Web Service Project Structure
+```
+module "demo/webservice"
+    package "models"
+        struct "User"
+```

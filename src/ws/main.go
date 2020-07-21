@@ -1,9 +1,15 @@
 package main
 
 import (
+	"demo/webservice/models"
 	"fmt"
 )
 
 func main() {
-	fmt.Println("Hello from a module, WS!")
+	u := models.User{
+		ID:        2,
+		FirstName: "Tricia",
+		LastName:  "McMillan",
+	}
+	fmt.Println(u)
 }
