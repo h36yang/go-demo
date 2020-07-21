@@ -20,5 +20,9 @@ Practice materials for Go
 ```
 module "demo/webservice"
     package "models"
-        struct "User"
+        "user.go":  User Model
+    package "controllers"
+        "front.go": Front Controller that routes all HTTP requests to Back Controllers
+        "user.go":  User Controller
+    "main.go": Program entry point that starts up the web server
 ```
