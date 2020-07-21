@@ -16,6 +16,12 @@ Practice materials for Go
 * GUI / Thick Client
 * Machine Learning
 
+### For Loop Types
+* Loop till condition
+* Loop till condition with post clause
+* Infinite loops
+* Loop over collections
+
 ### Sample Web Service Project Structure
 ```
 module "demo/webservice"
