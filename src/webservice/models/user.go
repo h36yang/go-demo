@@ -13,7 +13,7 @@ type User struct {
 }
 
 var (
-	users  []*User
+	users  = []*User{}
 	nextID = 1
 )
 
