@@ -1,5 +1,5 @@
 # go-demo
-Practice materials for Go
+Practice materials for **Go: Getting Started** course
 
 ### Language Characteristics
 * Fast Compilation
@@ -16,11 +16,27 @@ Practice materials for Go
 * GUI / Thick Client
 * Machine Learning
 
+### Primitive Data Types
+* Variables
+* Pointers
+* Constants
+
+### Collection Types
+* Arrays
+* Slices
+* Maps
+* Structs
+
 ### For Loop Types
 * Loop till condition
 * Loop till condition with post clause
 * Infinite loops
 * Loop over collections
+
+### Branching
+* Panics
+* If statements
+* Switches
 
 ### Sample Web Service Project Structure
 ```
@@ -34,6 +50,5 @@ module "demo/webservice"
 ```
 
 ### Best Practices
-> https://golang.org/doc/effective_go.html
-
-> https://github.com/golang/go/wiki/CodeReviewComments
+* https://golang.org/doc/effective_go.html
+* https://github.com/golang/go/wiki/CodeReviewComments
