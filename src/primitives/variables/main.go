@@ -14,7 +14,7 @@ func main() {
 	fmt.Println(f)
 
 	// Declaring variables by implicitly inferring the types
-	firstName := "Jack"
+	firstName := "Bruce"
 	fmt.Println(firstName)
 
 	b := true
